@@ -64,3 +64,19 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Extra Notes
+
+I have worked on the below functionalities as per the task to build the simple order system.
+
+(1) add products to a basket
+(2) create the order form
+(3) save the order to the database
+
+I have worked on the User login, User Signup and Logout functionalities as well. User will be able to add items into Cart and place an order after login only.
+
+User will be able to see the Cart items count and options like Products list and Logout under the toggle menu appears by clicking on the logged in user's name under top header after login.
+
+You will be able to see Laravel Application demo by using url http://127.0.0.1:8000 after setting up the project.
+
+Please ensure that you're using PHP 8.2 in order to run the project.
