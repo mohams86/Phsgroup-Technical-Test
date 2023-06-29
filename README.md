@@ -83,6 +83,8 @@ List of products will be fetched from products table based on the product seeder
 
 User will be able to see the Cart items count and options like Products list and Logout under the toggle menu appears by clicking on the logged in user's name under top header after login.
 
+I have uploaded the database sql file called "phsgroup_assessment" as well under root on Github for reference.
+
 You will be able to see Laravel Application demo by using url http://127.0.0.1:8000 after setting up the project.
 
 Please ensure that you're using PHP 8.2 in order to run the project.
