@@ -70,10 +70,16 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 I have worked on the below functionalities as per the task to build the simple order system.
 
 (1) add products to a basket
+
 (2) create the order form
+
 (3) save the order to the database
 
+I have used the project setup provided under this link https://gitlab.com/direct365_public/applicant-test only for the development. As there was some issue with Docker Engine error on my Windows system so I had to use the Wamp setup only for completing the task.
+
 I have worked on the User login, User Signup and Logout functionalities as well. User will be able to add items into Cart and place an order after login only.
+
+List of products will be fetched from products table based on the product seeder provided. I have used database migrations provided under the project setup provided under the Gitlab link only.
 
 User will be able to see the Cart items count and options like Products list and Logout under the toggle menu appears by clicking on the logged in user's name under top header after login.
 
